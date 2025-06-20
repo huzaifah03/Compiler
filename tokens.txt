@@ -1,42 +1,44 @@
 
-1. Keywords
+KEYWORDS
 
-int	int
-float	float
-string	jumla
-char	lafz
-bool	bool
+C language 	| 	New Language
+---------------------------------------
+int		| 	int
+float		|	float
+string		|	jumla
+char		|	lafz
+bool		|	bool
 
-if	agr
-else	wrna
-do	kr
-while	jbtk
-for	jb
+if		|	agr
+else		|	wrna
+do		|	kr
+while		|	jbtk
+for		|	jb
 
-return	wapis
-void	void
-class	class
-true	sach
-false	jhoot
+return		|	wapis
+void		|	void
+class		|	class
+true		|	sach
+false		|	jhoot
 
 
-2. Identifiers
+IDENTIFIERS:
 
 Regex: [a-zA-Z_][a-zA-Z0-9_]*
 
 
-3. Operators
+OPERATORS:
 
-Arithmetic: +, -, *, /, %
+	Arithmetic: +, -, *, /, %
 
-Assignment: = 
+	Assignment: = 
 
-Comparison: ==, !=, <, >, <=, >=
+	Comparison: ==, !=, <, >, <=, >=
 
-Logical: &&, ||
+	Logical: &&, ||
 
 
-5. Punctuation / Delimiters
+PUNTUATION / DELIMITERS
 
 	; 
 	,
