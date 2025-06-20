@@ -1,0 +1,46 @@
+
+1. Keywords
+
+int	int
+float	float
+string	jumla
+char	lafz
+bool	bool
+
+if	agr
+else	wrna
+do	kr
+while	jbtk
+for	jb
+
+return	wapis
+void	void
+class	class
+true	sach
+false	jhoot
+
+
+2. Identifiers
+
+Regex: [a-zA-Z_][a-zA-Z0-9_]*
+
+
+3. Operators
+
+Arithmetic: +, -, *, /, %
+
+Assignment: = 
+
+Comparison: ==, !=, <, >, <=, >=
+
+Logical: &&, ||
+
+
+5. Punctuation / Delimiters
+
+	; 
+	,
+	() 
+	{}
+
+
