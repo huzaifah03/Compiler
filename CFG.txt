@@ -1,0 +1,14 @@
+
+
+S -> 	IS | NS | CS | ε
+I -> 	[a-z]I | I[0-9] | _I | ε
+C -> 	+C | -C | *C | /C | %C | =C !C <C | >C | &&C | ;C | ,C | (C) | {C} | ε
+C -> 	||C
+N -> 	[0-9]N
+
+key:
+
+[a-z] means all alphabets from a to z
+[0-9] means all numbers from 0 to 9	
+	 
+	
